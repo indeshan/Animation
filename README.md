@@ -1,1 +1,1 @@
-# Glowing React Logo
+# React Logo
